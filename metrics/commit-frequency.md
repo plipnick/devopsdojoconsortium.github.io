@@ -19,7 +19,7 @@ integrates tested, non-breaking code to trunk / master. Healthy CI practice is a
 ### How is it improved?
 
 - Break down code changes into smaller units to incrementally deliver features.
-- Use [BDD](../lean/work-decomposition/behavior-driven-development.html) to aid functional breakdown.
+- Use [BDD](../playbooks/lean/work-decomposition/behavior-driven-development.html) to aid functional breakdown.
 - Use TDD to design more modular code that can be integrated more frequently.
 - Make new code reachable only by the tests or flagged off for other
   environments with feature flags.

@@ -1,30 +1,27 @@
 nav:
   - title: References
     id: references
-    collapse: /docs/references
+    collapse: /references
     subfolderitems:
       - page: Overview
-        context: /docs/references/index
+        context: /references/index
   - title: Playbooks
     id: playbooks
-    collapse: /docs/playbooks
+    collapse: /playbooks
     subfolderitems:
       - page: Overview
-        context: /docs/playbooks/index
+        context: /playbooks/index
       - page: Culture
-        context: /docs/playbooks/culture/index
+        context: /playbooks/culture/index
       - page: Automation
-        context: /docs/playbooks/automation/index
+        context: /playbooks/automation/index
       - page: Lean Process
-        context: /docs/playbooks/lean/index
+        context: /playbooks/lean/index
       - page: Metrics
-        context: /docs/playbooks/metrics/index
+        context: //metrics/index
       - page: Sharing
-        context: /docs/playbooks/sharing/index
+        context: /playbooks/sharing/index
       # - page: Agile
-      #   context: /docs/playbooks/agile/index
+      #   context: /playbooks/agile/index
       # - page: Product
-      #   context: /docs/playbooks/product/index
-
-    
-  
+      #   context: /playbooks/product/index

@@ -27,12 +27,15 @@ navigation:
   - title: DOCS
     url: /docs/index.html
     context: /docs/
-  - title: Playbooks
-    url: /playbooks/index.html
-    context: /playbooks/
   - title: METRICS
     url: /metrics/index.html
     context: /metrics/
+  - title: PLAYBOOKS
+    url: /playbooks/index.html
+    context: /playbooks/
+  - title: REFERENCES
+    url: /references/index.html
+    context: /references/
   - title: BLOG
     url: /blog.html
     context: /blog

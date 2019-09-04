@@ -241,7 +241,7 @@ Proper source management is foundational. Everything related to value delivery m
 ### Teamwork
 
 - [Designing Product Teams](https://medium.com/faun/5-minute-devops-designing-product-teams-33b82e6c1c5c)
-- [The Infuence of Organizational Structure on Software Quality](../assets/pdf/The-Infuence-of-Organizational-Structure-on-SW-Quality.pdf)
+- [The Infuence of Organizational Structure on Software Quality](../docs/assets/pdf/The-Infuence-of-Organizational-Structure-on-SW-Quality.pdf)
 
 ### Testing & Quality
 
